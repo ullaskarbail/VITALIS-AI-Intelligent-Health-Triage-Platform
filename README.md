@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Users/vikaskr/.gemini/antigravity/brain/756aa1e2-457d-43c2-a12f-53617d048742/vitalis_banner_1779190004449.png" alt="Vitalis AI Banner" width="100%">
+  <img src="docs/assets/vitalis_banner.png" alt="Vitalis AI Banner" width="100%">
 
   # ✨ Vitalis AI
   **The Intelligent Healthcare Ecosystem**
@@ -22,7 +22,7 @@
 **Vitalis AI** is a state-of-the-art healthcare assistance platform designed to bridge the gap between patients and medical guidance. By leveraging natural language processing and advanced AI, Vitalis AI helps users understand their symptoms, access triage recommendations, and monitor their overall well-being.
 
 <div align="center">
-  <img src="/Users/vikaskr/.gemini/antigravity/brain/756aa1e2-457d-43c2-a12f-53617d048742/triage_mockup_1779190041177.png" alt="Triage Mockup" width="80%">
+  <img src="docs/assets/triage_mockup.png" alt="Triage Mockup" width="80%">
 </div>
 
 ---
